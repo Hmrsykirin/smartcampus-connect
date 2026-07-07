@@ -339,7 +339,7 @@ postman/
 | Name | Matric Number | Responsibility |
 |---|---|---|
 | Nur Humaira Shakirin Binti Shamsudin | B032410971 | Student Profile Service and Course Enrolment Service |
-| Name | MatricNo. | Task |
+| Intan Fatihah Natasha Binti Ismadi | B032410887 | Notification Services, Library/Booking Services and Reporting/Analytics Service |
 | Name | MatricNo. | Task |
 | Name | MatricNo. | Task |
 | Name | MatricNo. | Task |
