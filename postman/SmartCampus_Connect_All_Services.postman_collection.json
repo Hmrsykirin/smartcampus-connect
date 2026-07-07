@@ -1,11 +1,9 @@
-
 {
   "info": {
     "_postman_id": "894f2899-c8bb-40e2-86a4-f5e0b4e977a3",
-    "name": "SmartCampus Connect - Student Profile Service",
+    "name": "SmartCampus Connect - All Services",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-    "_exporter_id": "54246691",
-    "_collection_link": "https://go.postman.co/collection/54246691-894f2899-c8bb-40e2-86a4-f5e0b4e977a3?source=collection_link"
+    "_exporter_id": "54246691"
   },
   "item": [
     {
@@ -19,14 +17,9 @@
         "url": {
           "raw": "http://localhost:8081/api/students",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8081",
-          "path": [
-            "api",
-            "students"
-          ]
+          "path": ["api", "students"]
         }
       },
       "response": []
@@ -42,15 +35,9 @@
         "url": {
           "raw": "http://localhost:8081/api/students/S001",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8081",
-          "path": [
-            "api",
-            "students",
-            "S001"
-          ]
+          "path": ["api", "students", "S001"]
         }
       },
       "response": []
@@ -66,15 +53,9 @@
         "url": {
           "raw": "http://localhost:8081/api/students/S111",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8081",
-          "path": [
-            "api",
-            "students",
-            "S111"
-          ]
+          "path": ["api", "students", "S111"]
         }
       },
       "response": []
@@ -99,14 +80,9 @@
         "url": {
           "raw": "http://localhost:8081/api/students",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8081",
-          "path": [
-            "api",
-            "students"
-          ]
+          "path": ["api", "students"]
         }
       },
       "response": []
@@ -131,15 +107,9 @@
         "url": {
           "raw": "http://localhost:8081/api/students/S004",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8081",
-          "path": [
-            "api",
-            "students",
-            "S004"
-          ]
+          "path": ["api", "students", "S004"]
         }
       },
       "response": []
@@ -159,15 +129,9 @@
         "url": {
           "raw": "http://localhost:8081/api/students/S005",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8081",
-          "path": [
-            "api",
-            "students",
-            "S005"
-          ]
+          "path": ["api", "students", "S005"]
         }
       },
       "response": []
@@ -180,14 +144,9 @@
         "url": {
           "raw": "http://localhost:8082/api/courses",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "courses"
-          ]
+          "path": ["api", "courses"]
         }
       },
       "response": []
@@ -200,15 +159,9 @@
         "url": {
           "raw": "http://localhost:8082/api/courses/BITP3123",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "courses",
-            "BITP3123"
-          ]
+          "path": ["api", "courses", "BITP3123"]
         }
       },
       "response": []
@@ -230,14 +183,9 @@
         "url": {
           "raw": "http://localhost:8082/api/courses",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "courses"
-          ]
+          "path": ["api", "courses"]
         }
       },
       "response": []
@@ -262,14 +210,9 @@
         "url": {
           "raw": "http://localhost:8082/api/enrolments",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "enrolments"
-          ]
+          "path": ["api", "enrolments"]
         }
       },
       "response": []
@@ -282,14 +225,9 @@
         "url": {
           "raw": "http://localhost:8082/api/enrolments",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "enrolments"
-          ]
+          "path": ["api", "enrolments"]
         }
       },
       "response": []
@@ -311,14 +249,9 @@
         "url": {
           "raw": "http://localhost:8082/api/enrolments",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "enrolments"
-          ]
+          "path": ["api", "enrolments"]
         }
       },
       "response": []
@@ -340,14 +273,9 @@
         "url": {
           "raw": "http://localhost:8082/api/enrolments",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "enrolments"
-          ]
+          "path": ["api", "enrolments"]
         }
       },
       "response": []
@@ -369,14 +297,9 @@
         "url": {
           "raw": "http://localhost:8082/api/enrolments",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "enrolments"
-          ]
+          "path": ["api", "enrolments"]
         }
       },
       "response": []
@@ -398,23 +321,100 @@
         "url": {
           "raw": "http://localhost:8082/api/enrolments",
           "protocol": "http",
-          "host": [
-            "localhost"
-          ],
+          "host": ["localhost"],
           "port": "8082",
-          "path": [
-            "api",
-            "enrolments"
-          ]
+          "path": ["api", "enrolments"]
         }
       },
       "response": []
     },
     {
-      "name": "New Request",
+      "name": "GET all notifications",
       "request": {
         "method": "GET",
-        "header": []
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8085/api/notifications",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8085",
+          "path": ["api", "notifications"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GET dashboard report",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8084/api/reports/dashboard",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8084",
+          "path": ["api", "reports", "dashboard"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "SOAP get book detail",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\"\r\n                  xmlns:lib=\"http://utem.my/bitp3123/library\">\r\n   <soapenv:Header/>\r\n   <soapenv:Body>\r\n      <lib:getBookRequest>\r\n         <lib:isbn>978-1491950356</lib:isbn>\r\n      </lib:getBookRequest>\r\n   </soapenv:Body>\r\n</soapenv:Envelope>",
+          "options": {
+            "raw": {
+              "language": "xml"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:8083/ws",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8083",
+          "path": ["ws"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "SOAP book book reservation",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "text/xml",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\"\r\n                  xmlns:lib=\"http://utem.my/bitp3123/library\">\r\n   <soapenv:Header/>\r\n   <soapenv:Body>\r\n      <lib:bookBookRequest>\r\n         <lib:isbn>978-1491950356</lib:isbn>\r\n         <lib:studentId>S001</lib:studentId>\r\n      </lib:bookBookRequest>\r\n   </soapenv:Body>\r\n</soapenv:Envelope>",
+          "options": {
+            "raw": {
+              "language": "xml"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://localhost:8083/ws",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8083",
+          "path": ["ws"]
+        }
       },
       "response": []
     }
