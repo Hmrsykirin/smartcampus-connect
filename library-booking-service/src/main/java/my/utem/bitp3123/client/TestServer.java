@@ -10,21 +10,22 @@ public class TestServer {
             System.out.println("✅ SERVER STARTED ON PORT 9999!");
             System.out.println("Server is running... Waiting for messages...");
             
-            while (true) {  // Keep running forever
-                // Wait for a client to connect
+            while (true) {
+                // Accept client connection
                 Socket clientSocket = server.accept();
                 System.out.println("📥 Client connected!");
                 
-                // Read the message
+                // Read message
                 BufferedReader in = new BufferedReader(
                     new InputStreamReader(clientSocket.getInputStream()));
                 PrintWriter out = new PrintWriter(
                     clientSocket.getOutputStream(), true);
                 
                 String message = in.readLine();
-                if (message != null) {
+                if (message != null && !message.isEmpty()) {
                     System.out.println("📩 Received: " + message);
-                    // Send a response back to client
+                    
+                    // Send response back to client
                     out.println("EVENT_RECEIVED: Notification processed successfully");
                     System.out.println("📤 Sent response to client");
                 }
