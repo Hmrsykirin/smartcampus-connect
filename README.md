@@ -340,7 +340,7 @@ postman/
 |---|---|---|
 | Nur Humaira Shakirin Binti Shamsudin | B032410971 | Student Profile Service and Course Enrolment Service |
 | Intan Fatihah Natasha Binti Ismadi | B032410887 | Notification Services, Library/Booking Services and Reporting/Analytics Service |
-| Nur Balqish Maisarah Binti Mohd Azli | B032410589 | Client/testing for Reporting, documentation and Postman collection |
+| Nur Balqish Maisarah Binti Mohd Azli | B032410589 | Client/testing for Reporting and Postman collection |
 | Erica Edreanna Binti Mohd Azzar | B032410562 | Client/testing for Student Profile and Course Enrollment |
 | Name | MatricNo. | Task |
 
