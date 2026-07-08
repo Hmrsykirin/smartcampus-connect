@@ -346,24 +346,12 @@ postman/
 
 ---
 
-## Current Progress
+## Presentation
 
-### Completed
+Google drive link:
 
-- Student Profile Service basic REST API
-- Course Enrolment Service basic REST API
-- Service-to-service validation between Course Enrolment and Student Profile
-- Course capacity checking
-- Duplicate enrolment checking
-- Basic socket message event to Notification Test Server
-- Postman testing for completed services
-- Notification Service
-- Library / Booking Service with SOAP
-- Full integration testing
-
-### In Progress
-
-- Reporting / Analytics Service
-- Final presentation preparation
+```text
+https://drive.google.com/drive/folders/1m9eo38AeqPzzv5svhw7Gm3XkNnOmenqN?usp=drive_link
+```
 
 ---
