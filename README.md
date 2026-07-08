@@ -342,7 +342,7 @@ postman/
 | Intan Fatihah Natasha Binti Ismadi | B032410887 | Notification Services, Library/Booking Services and Reporting/Analytics Service |
 | Nur Balqish Maisarah Binti Mohd Azli | B032410589 | Client/testing for Reporting and Postman collection |
 | Erica Edreanna Binti Mohd Azzar | B032410562 | Client/testing for Student Profile and Course Enrollment |
-| Name | MatricNo. | Task |
+| Nurin Munirah Binti Muhammad Afifi | B032410614 | Client/testing for Library & Notification |
 
 ---
 
