@@ -162,7 +162,7 @@ http://localhost:8082
 
 ---
 
-### 3. Notification Service
+### 3. Notification Service (NURIN MUNIRAH BINTI MUHAMMAD AFIFI)
 
 The Notification Service receives event messages from other services.
 
@@ -176,7 +176,7 @@ EVENT:ENROLMENT_SUCCESS:1:S001:BITP3123:2026-07-02T15:30:00
 
 ---
 
-### 4. Library / Booking Service
+### 4. Library / Booking Service (NURIN MUNIRAH BINTI MUHAMMAD AFIFI)
 
 The Library / Booking Service handles library-related functions.
 
@@ -357,13 +357,13 @@ postman/
 - Duplicate enrolment checking
 - Basic socket message event to Notification Test Server
 - Postman testing for completed services
+- Notification Service
+- Library / Booking Service with SOAP
+- Full integration testing
 
 ### In Progress
 
-- Notification Service
-- Library / Booking Service with SOAP
 - Reporting / Analytics Service
-- Full integration testing
 - Final presentation preparation
 
 ---
